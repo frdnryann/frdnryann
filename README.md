@@ -19,12 +19,13 @@
 
 ## My Stacks :
 
-<img src="assets/laravel.svg" alt="lang" width="45" hspace="10">
-<img src="assets/mysql.svg" alt="lang" width="45" hspace="10">
-<img src="assets/javascript.svg" alt="lang" width="45" hspace="10">
-<img src="assets/docker.svg" alt="lang" width="45" hspace="10">
+<div>
+   <img src="assets/laravel.svg" alt="lang" width="45" hspace="10">
+   <img src="assets/mysql.svg" alt="lang" width="45" hspace="10">
+   <img src="assets/javascript.svg" alt="lang" width="45" hspace="10">
+   <img src="assets/docker.svg" alt="lang" width="45" hspace="10">
+</div>
 
-<br>
 <hr>
 
 <div align="center">
@@ -44,6 +45,8 @@
       <img src="assets/telegram.svg" width="30" height="30" alt="telegram" hspace="5"/>
    </a>
 </div>
+
+<br>
 
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=nothazel24&style=flat-square"/>
