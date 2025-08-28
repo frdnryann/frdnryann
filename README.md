@@ -1,43 +1,51 @@
+# Hi there 👋!
+
 <div align="center">
-   <img src="assets/banner.png" alt="roy-guntur"> <br>
-   <img src="https://komarev.com/ghpvc/?username=nothazel24&style=flat-square"  />
+   <img src="assets/banner.png" alt="banner">
 </div>
 
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-
-  <a href="https://t.me/Aruutwenty4" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
-   </a>
-
-  <a href="mailto:frdnryann@gmail.com" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-   </a>
-</div>
-<br>
-
-## Hi there!
 <p>
-   I'm ryan ferdiansyah usually called ryan, a student from indonesia.
-   I'm enjoy playing <u>Ena dream bbq</u> and <u>Persona 3 Portable</u></b> games. 
+   I enjoy designing minimalist and structured things, such as website designs, posters, and others. And sometimes I also like to experiment with Android. 
 </p>
 
-**Nice to meet you 🥖🥖🥖**
+<ul>
+   <li>🧐 Interested in full-stack web development</li>
+   <li>🌱 Currently learning Laravel and Linux</li>
+   <li>☕ I like coffee and music</li>
+   <li>😑 I'm not a simp</li>
+</ul>
 
-## My Stats :
-   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nothazel24&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=nothazel24&theme=transparent&hide_border=true"/>
-   </div>
+## My Stacks :
 
-## I'm code with :
-<div style="display: flex; gap: .5rem;">
+<img src="assets/laravel.svg" alt="lang" width="45" hspace="10">
+<img src="assets/mysql.svg" alt="lang" width="45" hspace="10">
+<img src="assets/javascript.svg" alt="lang" width="45" hspace="10">
+<img src="assets/docker.svg" alt="lang" width="45" hspace="10">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="lang">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="lang">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="lang">
+<br>
+<hr>
 
+<div align="center">
+   <em>check out my other social media too!</em>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://instagram.com/frdnryann_">
+      <img src="assets/instagram.svg" width="30" height="30" alt="instagram" hspace="5"/>
+  </a>
+  <a href="https://discordapp.com/users/2671">
+      <img src="assets/discord.svg" width="30" height="30" alt="discord" hspace="5"/>
+  </a>
+  <a href="https://t.me/Aruutwenty4">
+      <img src="assets/telegram.svg" width="30" height="30" alt="telegram" hspace="5"/>
+   </a>
+</div>
+
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=nothazel24&style=flat-square"/>
+</div>
+<hr>
