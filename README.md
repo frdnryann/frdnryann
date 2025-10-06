@@ -6,6 +6,18 @@
 
 <br>
 
+<div align="center">
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+<br>
+
 <p>
    I enjoy designing minimalist and structured things, such as website designs, posters, and others. And sometimes I also like to experiment with Android. 
 </p>
@@ -17,13 +29,11 @@
    <li>😑 I'm not a simp</li>
 </ul>
 
-## My Stacks :
+## My Stats :
 
-<div>
-   <img src="assets/laravel.svg" alt="lang" width="45" hspace="10">
-   <img src="assets/mysql.svg" alt="lang" width="45" hspace="10">
-   <img src="assets/javascript.svg" alt="lang" width="45" hspace="10">
-   <img src="assets/docker.svg" alt="lang" width="45" hspace="10">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nothazel24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nothazel24&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <hr>
