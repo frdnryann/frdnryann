@@ -30,8 +30,8 @@
 ## My Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nothazel24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nothazel24&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nothazel24&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nothazel24&theme=transparent&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 #
@@ -59,5 +59,3 @@
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=nothazel24&style=flat-square"/>
 </div>
-
-#
