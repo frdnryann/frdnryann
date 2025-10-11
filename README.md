@@ -1,5 +1,3 @@
-# Hi there 👋!
-
 <div align="center">
    <img src="assets/banner.png" alt="banner">
 </div>
@@ -36,7 +34,7 @@
   <img src="https://streak-stats.demolab.com?user=nothazel24&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<hr>
+#
 
 <div align="center">
    <em>check out my other social media too!</em>
@@ -46,13 +44,13 @@
 
 <div align="center">
   <a href="https://instagram.com/frdnryann_">
-      <img src="assets/instagram.svg" width="30" height="30" alt="instagram" hspace="5"/>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo" hspace="5" />
   </a>
   <a href="https://discordapp.com/users/2671">
-      <img src="assets/discord.svg" width="30" height="30" alt="discord" hspace="5"/>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" alt="discord logo" hspace="5" />
   </a>
   <a href="https://t.me/Aruutwenty4">
-      <img src="assets/telegram.svg" width="30" height="30" alt="telegram" hspace="5"/>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="30" alt="telegram logo" hspace="5" />
    </a>
 </div>
 
@@ -61,4 +59,5 @@
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=nothazel24&style=flat-square"/>
 </div>
-<hr>
+
+#
