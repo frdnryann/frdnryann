@@ -5,12 +5,9 @@
 <br>
 
 <div align="center">
-  <img hspace="10" src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <!-- <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  /> -->
-  <img hspace="10" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img hspace="10" src="https://skillicons.dev/icons?i=alpinejs" height="40" alt="alpinelinux logo"  />
-  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
@@ -21,18 +18,18 @@
 </p>
 
 <ul>
-   <li>🧐 Interested in full-stack web development</li>
-   <li>🌱 Currently learning Laravel and Linux</li>
+   <li>🧐 Interested in Backend web development</li>
+   <li>🌱 Currently learning UI/UX Design and Linux</li>
    <li>☕ I like coffee and music</li>
    <li>😑 I'm not a simp</li>
 </ul>
 
-## My Stats :
+<!-- ## My Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nothazel24&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=nothazel24&theme=transparent&hide_border=true" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 #
 
