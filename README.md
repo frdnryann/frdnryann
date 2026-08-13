@@ -20,17 +20,10 @@
 
 <ul>
    <li>🧐 Interested in Backend web development</li>
-   <li>🌱 Currently learning UI/UX Design and Linux</li>
+   <li>🌱 Currently learning Linux</li>
    <li>☕ I like coffee and music</li>
    <li>😑 I'm not a simp</li>
 </ul>
-
-<!-- ## My Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nothazel24&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nothazel24&theme=transparent&hide_border=true" height="150" alt="streak graph"  />
-</div> -->
 
 #
 
@@ -41,7 +34,7 @@
 <br>
 
 <div align="center">
-  <a href="https://instagram.com/frdnryann_">
+  <a href="https://instagram.com/v.ryannfrdn_">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo" hspace="5" />
   </a>
   <a href="https://discordapp.com/users/2671">
